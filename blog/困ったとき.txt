@@ -1,0 +1,9 @@
+migrateが出来ない時
+python manage.py migrate --fake blog zero
+python manage.py migrate
+
+スクリプト起動（myvenv)
+myvenv\Scripts\activate
+
+shell起動(venv状態で)
+python manage.py shell
